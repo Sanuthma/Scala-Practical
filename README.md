@@ -1,1 +1,1 @@
-# Scala Practical
+# Practical 01
