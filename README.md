@@ -1,1 +1,1 @@
-# Functional Programming
+# Scala Practical
